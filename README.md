@@ -1,4 +1,4 @@
-# Proyecto Final de Ing. de Software | Equipo Bueno
+# Asesorías ITAM
 
 Proyecto final del equipo "BUENO" para la materia de Ing. de Software Otoño 2022.
 
